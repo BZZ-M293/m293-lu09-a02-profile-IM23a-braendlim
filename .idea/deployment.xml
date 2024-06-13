@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="braendlim.students.bzz.ch">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/LU09A02" local="$PROJECT_DIR$" web="/LU09A02" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="testbraendlim.bzz.ch">
+        <serverdata>
+          <mappings>
+            <mapping deploy="" local="$PROJECT_DIR$" web="/LU09A02" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>
